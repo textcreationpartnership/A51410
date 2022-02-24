@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gaming-humor considered and reproved, or, The passion-pleasure and exposing money to hazard by play, lot or wager examined by a well-wisher to mankind.</title>
+            <author>Morton, Charles, 1627-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51410</idno>
+            <idno type="STC">Wing M2823</idno>
+            <idno type="STC">ESTC R42182</idno>
+            <idno type="EEBO-CITATION">24125350</idno>
+            <idno type="OCLC">ocm 24125350</idno>
+            <idno type="VID">109665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1707:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gaming-humor considered and reproved, or, The passion-pleasure and exposing money to hazard by play, lot or wager examined by a well-wisher to mankind.</title>
+                  <author>Morton, Charles, 1627-1698.</author>
+               </titleStmt>
+               <extent>[2], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cockerill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Charles Morton by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gambling --  Moral and ethical aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109665:1"/>
+            <pb facs="tcp:109665:1"/>
+            <p>THE GAMING-HUMOR Conſidered, and Reproved. OR, The Paſſion-Pleaſure, and Expoſing MONEY to hazard BY PLAY, LOT, or WAGER, Examined.</p>
+            <p>By a Well-wiſher to Mankind.</p>
+            <q>
+               <p>Opus eſt bonâ famâ apud homines, bonâ Conſcientiâ apud Deum.</p>
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Saturnalia potius Celebrantes, quam Chriſti natales.</p>
+               <bibl>
+                  <hi>Gul.</hi> Fulco.</bibl>
+            </q>
+            <q>
+               <p>Non facile adducar licitum conſentire, quod tot parturit Illicita.</p>
+               <bibl>
+                  <hi>Bern.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Neque enim Ludus erit, ubi Cenſus volvitur in Tabula, &amp; Ludus fit de periculo, &amp; de ludo periculum.</p>
+               <bibl>
+                  <hi>Ambr.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Luſori cupido ſemper gravis exitus Inſtat.</p>
+               <bibl>
+                  <hi>Baſil.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Si quis habet nummos veniens, exibit Inanis.</p>
+               <bibl>
+                  <hi>Vital.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>— Simplex ne furor, Coſtertia centum perdere, &amp; horrenti Tunicam non Reddere ſervo?</p>
+               <bibl>
+                  <hi>Juv.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Cockerill,</hi> at the Three Legs in the <hi>Poultry.</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109665:2"/>
+            <pb n="1" facs="tcp:109665:2" rendition="simple:additions"/>
+            <head>THE GAMING-HUMOR Conſidered, and Reproved.</head>
+            <p>AMong the many pernicious Vices of the Times wherein we live, the
+<hi>Gaming Humor</hi> is not of the low<g ref="char:EOLhyphen"/>eſt Rank; and it is of the more danger to be entertained, becauſe it pretends to ſomething of
+<hi>Reaſon</hi> for its Warrant, or at leaſt has the <hi>common cuſtom</hi> and the <hi>example</hi> of ſome great or good men to ex<g ref="char:EOLhyphen"/>cuſe it.</p>
+            <p>The <hi>pleaſures</hi> of which men are capable in this life, may be ranked into <hi>natural</hi> and <hi>ani<g ref="char:EOLhyphen"/>mal;</hi> the <hi>animal</hi> again are diſtributed accord<g ref="char:EOLhyphen"/>ing to the <hi>faculties</hi> of the ſoul
+<hi>inferior</hi> or <hi>ſu<g ref="char:EOLhyphen"/>perior:</hi> the <hi>inferior</hi> are of
+<hi>ſenſe, motion</hi> and <hi>appetite;</hi> the <hi>ſuperior</hi> are of <hi>Will, Intellect,</hi> and <hi>Conſcience</hi> (of all which we may have oppor<g ref="char:EOLhyphen"/>tunity perhaps hereafter to diſcourſe more at large). That which concerns us at preſent is, <pb n="2" facs="tcp:109665:3"/>to enquire into which of theſe Claſſes the <hi>plea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re of Gaming</hi> may be referred? The Gameſters would have it
+<hi>rational,</hi> &amp; of the ſuperior order; becauſe Dogs, Horſes, and other Brute (which have ſom kind of participation with men in ſen<g ref="char:EOLhyphen"/>ſual pleaſures, yet) have no ſhare in this; for that they can neither attain the
+<hi>Arts</hi> of Ga<g ref="char:EOLhyphen"/>ming, nor know the value of the ſtakes. But this notwithſtanding, 'tis indeed moſt properly belonging to the <hi>Senſitive appetite;</hi> for that it is a <hi>Paſſion Pleaſure,</hi> and all the concern that <hi>Reaſon</hi> has about it, is, that (by perverting the order of nature) humane <hi>skill</hi> and <hi>art</hi> ſeat<g ref="char:EOLhyphen"/>ed in the Intellect, are made to <hi>drudg</hi> under the ſervice of <hi>irregular paſſions,</hi> as I hope will plainly appear in this our preſent Diſcourſe.</p>
+            <p>The <hi>Gaming Humor</hi> may be Defined, <hi>An in<g ref="char:EOLhyphen"/>ordinate affection after Gain and Sport, by Play, Lot, or Wager.</hi>
+            </p>
+            <p n="1">1. I call it an <hi>affection</hi> (or <hi>paſſion</hi>) in a com<g ref="char:EOLhyphen"/>plicated ſenſe, as comprehending all the paſ<g ref="char:EOLhyphen"/>ſions of the
+<hi>concupiſcible appetite,</hi> carried forth after all the kinds of Temporal Good [<hi>pleaſure, profit</hi> and <hi>honour</hi>], and drawing after them all the paſſions of the <hi>Iraſcible appetite,</hi> which are oft-times thereby vehemently excited; beſides an engagement ſometimes of thoſe <hi>proper paſ<g ref="char:EOLhyphen"/>ſion,</hi> which are peculiar to the
+<hi>rational</hi> nature; ſo
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat there are <hi>three</hi> ſorts of paſſions concern<g ref="char:EOLhyphen"/>ed therein.</p>
+            <p n="1">1. Thoſe of the <hi>concupiſcible</hi> appetite, or
+<pb n="3" facs="tcp:109665:3"/>ſuch as have <hi>good</hi> for their proper object (for ſo I think moſt reaſonable to <hi>diſtribute</hi> the ap<g ref="char:EOLhyphen"/>petites); Theſe are <hi>Love, Joy, Deſire, Hope, Deſpair;</hi> and theſe are immediately and pri<g ref="char:EOLhyphen"/>marily concern'd in this matter.</p>
+            <p n="2">2. Thoſe of the <hi>Iraſcible,</hi> whoſe object is
+<hi>Evil,</hi> as <hi>Hatred, Grief, Shunning, Fear, Bold<g ref="char:EOLhyphen"/>neſs, Anger.</hi>
+            </p>
+            <p n="3">3. Thoſe that are <hi>proper</hi> paſſions to man only (at leaſt ſome of them), as <hi>Envy, Indig<g ref="char:EOLhyphen"/>nation, Self-conceit, Triumph, Shame, Revenge, Diſcontent, Vexation,</hi> &amp;c.</p>
+            <p>Now, to illuſtrate this matter, I ſhall ſhew how moſt of theſe paſſions are excited and ex<g ref="char:EOLhyphen"/>erciſed herein. As, ſuppoſe a man has a great <hi>love</hi> for money or ſport, this rouſes
+<hi>deſire,</hi> which with <hi>hope</hi> carries out his endeavours; herein, if he ſucceeds, he has <hi>joy;</hi> but if not, and his hope alſo fails, through ſome croſs circum<g ref="char:EOLhyphen"/>ſtances, then enters <hi>deſpair;</hi> and this would put an end to the buſineſs, but that from ſome other circumſtances conſidered, <hi>hope</hi> begins to revive again, which makes him hold on the Game. Thus far the apprehenſion of <hi>gain,</hi> and advantage to be gotten, does operate.</p>
+            <p>But becauſe there is <hi>loſs</hi> and <hi>hazard,</hi> as well as <hi>gain</hi> before him, therefore the other paſſi<g ref="char:EOLhyphen"/>ons take their turns. And firſt, a man <hi>hates</hi> to be beaten, to loſe, to be diſappointed of his hope; whereupon he <hi>fears</hi> what will be the iſſue; upon this he is very careful to ſhun and <pb n="4" facs="tcp:109665:4"/>avoid the Danger. If, notwithſtanding all his caution, the Game goes againſt him, he is <hi>grieved</hi> more or leſs, according to the <hi>value</hi> played for, or the <hi>engagement</hi> of his mind in the buſineſs. If any real or ſancied un-fair play be ſuppoſed; or if any ſtander by has contributed to the advantage of the oppoſite party, or ſpoken in the play, or done, or of<g ref="char:EOLhyphen"/>fered any thing obſtructive to him, preſently <hi>anger</hi> is enflamed; and when this has boiled up the Spirits to a convenient height then enters <hi>boldneſs,</hi> then <hi>have at all,</hi> and a pound, as ſoon as a penny, is put to the hazard.</p>
+            <p>The proper <hi>humane paſſions</hi> are intermingled with the other, according to the various ſuc<g ref="char:EOLhyphen"/>ceſs of the Game; for if he thrives in it, then with his <hi>Joy</hi> is mingled <hi>ſelf-conceit,</hi> and
+<hi>ſelf-approbation</hi> in his Skill, or good fortune (as he calls it), and therewith a kind of <hi>Triumph</hi> over his vanquiſhed Adverſary; theſe are in their own nature, tickling and pleaſing paſſions.</p>
+            <p>But if he ſucceeds ill, then with his <hi>grief</hi> is mingled
+<hi>envy</hi> at the others proſperity, <hi>diſcon<g ref="char:EOLhyphen"/>tent</hi> at his own ill ſuck, <hi>indignation</hi> and <hi>ſcorn,</hi> yet mingled with
+<hi>ſhame,</hi> that he ſhould be beaten by ſuch a bungler (for ſo
+<hi>ſelf-conceit</hi> will eſteem of the oppoſite party). Hereupon
+<hi>boldneſs</hi> and <hi>revenge</hi> ſhake hands, and if the leaſt
+<hi>hope</hi> give countenance, the Game is held on with pertinacy; but if ſtill comes loſs up<g ref="char:EOLhyphen"/>on loſs, then no ſmall <hi>vexation</hi> ariſes in the <pb facs="tcp:109665:4"/>mind: And yet for all this (leſt the Trade ſhould fail),
+<hi>hope</hi> encourages <hi>revenge</hi> to be a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him again on the next convenient opportu<g ref="char:EOLhyphen"/>nity.</p>
+            <p>Thus the <hi>Gaming humor</hi> continues when the preſent Game is over; for to Gaming, <hi>re<g ref="char:EOLhyphen"/>venge</hi> is ſo natural a <hi>pabulum,</hi> that from hence ariſes that Gaming phraſe, <hi>[Let us play ſet and revenge]</hi> that is, only two Games, that (if it ſo happens) they may be quits one of the other.</p>
+            <p>And thus much for the Genus [an <hi>affecti<g ref="char:EOLhyphen"/>on</hi>]; which word if you like not, as too nar<g ref="char:EOLhyphen"/>row for ſuch an huddle of paſſions, as are ſhewn to be comprehended in Gaming, you may (if you pleaſe) word the definition thus, [a <hi>diſorderly paſſionate purſuit of gain and ſport, by play, lot or wager</hi>], the <hi>inordinacy</hi> of it will appear better, when we have farther explain<g ref="char:EOLhyphen"/>ed the remaining parts of the definition.</p>
+            <p n="2">2. 'Tis a purſuit of <hi>gain;</hi> namely, of the
+<hi>ſtake</hi> which is put to the hazard. This ſtaking of ſomething valuable, is by the Civilians and Caſuiſts, called <hi>contractus ludi</hi> (the contract of the play), which is farther thus explained, <hi>Quo ludentes inter ſe conveniunt, ut victori aliquid tribuatur a victo</hi> (whereby the Players agree, that the Conquered ſhall pay ſomething to the Conqueror); this ſomething may be money, or moneys-worth; and that, either the whole to be given to the Conqueror for his <hi>own uſe</hi> 
+               <pb n="6" facs="tcp:109665:5"/>or to be expended in ſomething which may be for the common uſe of both; or laſtly put to any other <hi>uſe,</hi> by the conſent of both the par<g ref="char:EOLhyphen"/>ties. In the firſt, the Victor only is profited; in the ſecond caſe the Victor has but half; and in the third he has no advantage at all, only the loſer is puniſhed in this, as he is in the other two. This laſt does leaſt (though ſome<g ref="char:EOLhyphen"/>what) nouriſh the <hi>Gaming humor;</hi> the ſecond does more; but the firſt (the whole profit) does moſt of all; for the <hi>advantage hoped for,</hi> is that which incites the right Gameſter to play, which otherwiſe he would often no more do, than either work or ſtudy.</p>
+            <p n="3">3. 'Tis a purſuit of <hi>ſport</hi> or
+<hi>pleaſure;</hi> for, beſides the <hi>gain</hi> (which ſome ſeem only to pro<g ref="char:EOLhyphen"/>poſe), there is a <hi>recreation</hi> and <hi>delight</hi> which men do take therein; this pleaſure is a <hi>paſſion-pleaſure</hi> (as is before noted) which may ap<g ref="char:EOLhyphen"/>pear in the foregoing explication of the word
+[Affection], where you may obſerve, how the ſeveral paſſions do every one act its part; and then by their <hi>great variety, ſudden ſhifting,</hi> and <hi>vivid exerciſe,</hi> they afford this pleaſure; for hereby the humours and ſpirits are put in<g ref="char:EOLhyphen"/>to a various motion, whence ariſe warmth in the blood, and ſteams to the Brain, which are matter for fancy to work upon. Here alſo <hi>fan<g ref="char:EOLhyphen"/>cy</hi> puts in for a ſhare in the ſport; this buſy fa<g ref="char:EOLhyphen"/>culty loves to be employed, and here is work enough for i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for before it can have well form<g ref="char:EOLhyphen"/>ed <pb n="7" facs="tcp:109665:5"/>
+               <hi>one imagination</hi> of good or evil, preſently is offered an occaſion for <hi>another,</hi> and and perhaps the quite contrary to what it was in ſhaping; this, tho' it would be an unpleaſant confuſion to the rational thoughts, is yet agreeable enough to this hop<g ref="char:EOLhyphen"/>ping and deſultorious faculty. <hi>Fancy</hi> thus bu<g ref="char:EOLhyphen"/>ſied, does again influence and more excite the <hi>paſſions,</hi> and ſo there is a kind of circular agi<g ref="char:EOLhyphen"/>tation among thoſe <hi>lower faculties</hi> of the Soul, whereby the pleaſure is continued. And yet leſt the paſſions ſhould want a ſufficient en<g ref="char:EOLhyphen"/>gagement, the <hi>ſtake</hi> or <hi>wager</hi> is added and de<g ref="char:EOLhyphen"/>poſited, commonly in open view, that it may affect the more; or in a <hi>third hand</hi> for aſſurance; becauſe, tho' men are forward enough to ven<g ref="char:EOLhyphen"/>ture their money, when they have <hi>hope</hi> to ſwell their bubble, yet they'l be as backward to pay it when their hope is daſhed, and the Gaming bubble is broken by the loſs. This <hi>ſtake,</hi> by thoſe who love the <hi>ſport</hi> more than the <hi>gain,</hi> is in a very
+<hi>moderate meaſure,</hi> and is ſo continued to the end of the play; but by thoſe who aim more at the <hi>gain</hi> than the <hi>recreation,</hi> the ſtake is often gradually <hi>heightened</hi> (according to the encreaſe of paſſions,) to as much as can be obtained from the fellow-Players; and ſo it is with the <hi>Wagers</hi> of the Gaming by-ſlanders.</p>
+            <p>Theſe two [<hi>ſport</hi> and <hi>gain</hi>] may be called the
+<hi>ends</hi> of Gaming: If <hi>ſport</hi> take the chief place in the deſign of men, if may (with other <pb n="8" facs="tcp:109665:6"/>due circumſtances,) be allowed the innocent name of <hi>Play;</hi> but if the <hi>gain</hi> be chiefly pro<g ref="char:EOLhyphen"/>poſed, then 'tis not Play but <hi>Gaming</hi> which denominates the
+<hi>Gameſter</hi> in the moſt common and ſcandalous acceptation of the word.</p>
+            <p n="4">4. The <hi>means</hi> of obtaining theſe ends, are mentioned to be three <hi>play, lot</hi> and <hi>wager.</hi>
+            </p>
+            <p n="1">1. <hi>Play</hi> is ſome exerciſe of <hi>body,</hi> or
+<hi>mind,</hi> or <hi>both</hi> in a mixture; the <hi>mind</hi> is more exerciſed with <hi>Cheſs, Draughts,</hi> &amp;c. The <hi>body</hi> more in
+<hi>Leaping, Running, Ringing,</hi> &amp;c. The <hi>mixture</hi> of both is, when <hi>skill</hi> is required and uſed in the exerciſe of the body, as in
+<hi>ſhooting</hi> with Gun or Bow, <hi>Bowls, Nine-pins, &amp;c.</hi> wherein exact<g ref="char:EOLhyphen"/>neſs of Collimation, (or aim) <hi>agility</hi> of body and
+<hi>ſagacity</hi> of mind are required together; and theſe in their own nature ſeem to be of the beſt Character, becauſe in the ſame expence (of Time or Money), they are of a double uſe, namely to ſerve the Bodies
+<hi>health,</hi> and the Minds <hi>recreation, diverſion</hi> or
+<hi>improvement.</hi>
+            </p>
+            <p>Hither to may be reſerred ſuch ſports as are procured by the exerciſe of others (either <hi>men</hi> or <hi>beaſts</hi>) and the pleaſure is to the Spe<g ref="char:EOLhyphen"/>ctators, many of whom do thereupon take the occaſion to be the Betting Gameſters, ſuch as <hi>Sword-playing, Wreſtling, Racing</hi> by Horſe or Foot, the <hi>Spaniſh Torio</hi> or Bull game,
+<hi>Bull-baiting, Bear-baiting, Cock matches,</hi> &amp;c Of all which we may ſay,</p>
+            <pb n="9" facs="tcp:109665:6"/>
+            <p n="1">1. The exerciſe of skill or ſtrength in <hi>man,</hi> or the ſagacity, courage, celerity, or any other excellencies in
+<hi>brutes,</hi> is <hi>pleaſant</hi> and <hi>innocent</hi> to behold, and may adminiſter occaſion to <hi>ad<g ref="char:EOLhyphen"/>mire</hi> and <hi>praiſe</hi> Gods Wiſdom and Bounty in the Creation.</p>
+            <p n="2">2. But the hazard of mans life or health, the teazing and tormenting of brute Creatures to make a ſport thereof; to delight in thoſe Antipathies, which are a part of that <hi>vanity under which the creature groans,</hi> and <hi>whereto it was made ſubject</hi> by mans original ſin; this is an <hi>unchriſtian</hi> and <hi>unnatural cruelty,</hi> and no branch of mans prerogative or title to the Works of God, who has granted him the uſe of all, but not the abuſe of any. This is too near a kin to ſome of the Pagans Theatre cruelties, or that woful ſport at <hi>Helkath Haz<g ref="char:EOLhyphen"/>zurim,</hi>
+2 Sam. 2.14. Where <hi>the young m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> 12. <hi>on a ſide, aroſe to play before Abner and Joab, they caught every one his fellow by the head, and thruſt his ſword in his fellows ſide, ſo they fell down together.</hi>
+            </p>
+            <p n="3">3. Therefore if thoſe Exerciſes were ſo or<g ref="char:EOLhyphen"/>dered, that there were <hi>no probability of hurt</hi> to enſue; as if the races be very ſhort, and upon ſafe ground; if the combatant with the Bull have a ſafe retreat: If Cocks ſpur with Huffles, and Fencers play with Foils (that commonly do no harm) theſe and ſuch-like ſpectacles may be well allowed for honeſt re<g ref="char:EOLhyphen"/>creation.</p>
+            <pb n="10" facs="tcp:109665:7"/>
+            <p n="4">4. Yet all, or any of theſe (however lawful or laudable in their own Nature) when they <hi>ſerve the Gaming Humor,</hi> and are expen<g ref="char:EOLhyphen"/>ſive of Time and Money, beyond due Deco<g ref="char:EOLhyphen"/>rum, they ceaſe to be honeſt or neceſſary Re<g ref="char:EOLhyphen"/>creation, and become the <hi>Vitious Gaming.</hi> And thus much of the firſt means <hi>Play.</hi>
+            </p>
+            <p n="2">2. The <hi>Second Means</hi> of Sport and Gain is
+<hi>Lot,</hi> which is defined, <hi>A Caſual Event pur<g ref="char:EOLhyphen"/>poſely applied to the Deciſion of ſome doubt or queſtion.</hi> In which the <hi>Genus</hi> or matter is <hi>ca<g ref="char:EOLhyphen"/>ſual Event;</hi> the <hi>form</hi> or difference is the
+<hi>Ap<g ref="char:EOLhyphen"/>plicat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> to a queſtion; ſo that a rub in the Green, a ſlip of the foot, or jog of the hand, which may have ſome influence, on the Iſſue of the Game, are caſualties, but not Lots, becauſe they are not applied of purpoſe to have that Influence. Every Lot is a Caſual, but every Caſual is not a Lot.</p>
+            <p>The <hi>Diviſion</hi> of Lots has divided the learned; I hardly find two that agree in the ſame. That which I take for the preſent ſhall be this, <hi>Lot</hi> (in the uſe of men) is either <hi>ſerious</hi> or
+<hi>luſory. Serious</hi> are either <hi>ſacred</hi> or <hi>civil. Sacred</hi> were ſuch as by Gods appointment and ſpecial inſti<g ref="char:EOLhyphen"/>tution were made a ſign of his Will to direct his People of old in ſome diſſicult caſes. Theſe have been <hi>Conſultory</hi> or
+<hi>Divinatory. Conſul<g ref="char:EOLhyphen"/>tory,</hi> to know what is <hi>to be</hi> done, as in the choice of <hi>Matthias; Divinatory,</hi> of what <pb n="11" facs="tcp:109665:7"/>
+               <hi>has been</hi> done, as in the finding out of <hi>Achan.</hi> They have been very
+<hi>rare,</hi> and therefore are called <hi>extraordinary,</hi> and are <hi>not to be meddled with,</hi> but by ſpecial Warrant; and therefore the Heathens of old, and ſuch as imitate them now a days in ſuch practiſes, as call in Gods ſpecial Providence to attend their Will and Pleaſure, are greatly to be condemned as guilty of abominable Prophanations, and bold Tempta<g ref="char:EOLhyphen"/>tions of the moſt High God. The <hi>ſerious ci<g ref="char:EOLhyphen"/>vil</hi> Lot is called
+<hi>diviſory,</hi> which ſeems in ſome caſes to be allowed, in Prov.
+16.33. <hi>The lot is caſt into the lap, but the whole diſpoſing thereof is of the Lord:</hi> and chap. 18.18. <hi>The lot cauſeth contentions to ceaſe, and parteth be<g ref="char:EOLhyphen"/>tween the mighty.</hi> I ſay in <hi>ſome</hi> caſes and not all; not in <hi>trivial</hi> matters, not where mans
+<hi>Wiſdom can end</hi> the buſineſs without it; the only <hi>regular uſe</hi> of it ſeems to be, when men have uſed their utmoſt conſideration to reduce matters as far as they can to an equality, and yet by reaſon of the infirmity of human Paſſions, they cannot give all par<g ref="char:EOLhyphen"/>ties full ſatisfaction. Then (if men will agree thereto) may <hi>ſtrife</hi> be
+<hi>ended,</hi> or <hi>prevented</hi> by appeal to Providence in the
+<hi>Lot.</hi> The remaining difference here is indeed but <hi>ſmall,</hi> and yet is not <hi>Trivial,</hi> becauſe the <hi>conſequence of the ſtrife</hi> continuing, may be great. This being an appeal to a ſpecial and diſtinguiſhing Providence, muſt be accompanied <pb n="12" facs="tcp:109665:8"/>with invocation of God, more or leſs ſolemn (but always ſincere) according to the weight of the matter, and conſequence of the ſtrife.</p>
+            <p>Now comes the <hi>luſory Lot</hi> (for the under<g ref="char:EOLhyphen"/>ſtanding of which has been the foregoing diſ<g ref="char:EOLhyphen"/>courſe of Lots in their general nature and di<g ref="char:EOLhyphen"/>ſtribution) 'Tis the Lot uſed for <hi>ſport</hi> or <hi>gain</hi> in play; and this either <hi>ſimply,</hi> or <hi>mixt; ſimply</hi> is, when the <hi>iſſue</hi> of the game is wholly put upon the Lot as in <hi>Dice, Croſs and Pile, drawing Cuts, Huckle bone,</hi> &amp;c. Mixt is, when there is <hi>ſomthing of Art</hi> added to the chance, as in <hi>Cards and Tables.</hi> In the <hi>ſimple,</hi> the <hi>Queſtion</hi> to be deci<g ref="char:EOLhyphen"/>ded, is <hi>[who ſhall have the ſtake?]</hi> with<g ref="char:EOLhyphen"/>out more to do. This is accounted the <hi>vileſt</hi> and moſt pernicious ſort of
+<hi>gaming,</hi> there being barely the <hi>Game</hi> aimed at, and almoſt no exer<g ref="char:EOLhyphen"/>ciſe of Body or Mind therein; yea ſo far is it from the uſe of art or skill, that the <hi>leaſt art therein</hi> alters the nature of the game by taking away the Lot, and is by the Gameſters themſelves accounted a
+<hi>cheat.</hi> In the <hi>mixt</hi> Lot is another <hi>Queſtion,</hi> namely
+[<hi>in what ſtate</hi> or Condition <hi>ſhall the player be,</hi> that he may ſhew his skill?] I may add alſo a <hi>preparatory Lot,</hi> but not ſo much concerned in the Games; and the queſtions are [<hi>who</hi> ſhall be <hi>together?</hi> or <hi>who ſhall begin</hi> the play? <hi>&amp;c.</hi>] Theſe two latter kinds, tho they are not ſo much blamed as the former, and are allowed by ſome grave <pb n="13" facs="tcp:109665:8"/>Caſuiſts, yet are alſo rejected by the <hi>moſt</hi> of ſober people, and beſt Authors, which I am acquainted with, who by no means will al<g ref="char:EOLhyphen"/>low a luſorious Lot, and that ſo <hi>ſacred</hi> a thing (as they account it) ſhould be made a ſport of.</p>
+            <p>I know ſuch as plead for a poſſible lawful uſe of Lots in play, ſay, that there is no ſuch <hi>ſacredneſs</hi> in it; that the too common <hi>abuſe,</hi> and not the bare uſe of a luſory Lot, is blamea<g ref="char:EOLhyphen"/>ble; that the nature of it is of thoſe indiffe<g ref="char:EOLhyphen"/>rencies, which Chriſtian Liberty allows us to apply to any uſe they may be fit for; That there is indeed a <hi>common</hi> providence in them (as in all other things) but <hi>no ſpecial</hi> provi<g ref="char:EOLhyphen"/>dence is appealed to; that the caſualty of Lot is fitteſt for matters of no moment; that ſuch meer caſualties may receive power to de<g ref="char:EOLhyphen"/>cide controverſies, or anſwer queſtions by the
+<hi>conſent</hi> of men; that the common uſe in all Ages and Nations ſhews it agreeable to the Light of Nature, <hi>&amp;c.</hi>
+            </p>
+            <p>On the other hand, the oppoſers of a luſo<g ref="char:EOLhyphen"/>ry Lot ſay, That the very <hi>Nature</hi> of a Lot (and not only the abuſive
+<hi>Circumſtances</hi>) for<g ref="char:EOLhyphen"/>bids it to be made luſory; that
+<hi>ſacredneſs</hi> can<g ref="char:EOLhyphen"/>not be ſeparated from it, but by profanation; that 'tis as an <hi>Oath,</hi> a kind of prayer, and as that invocates Gods
+<hi>atteſting Preſence,</hi> ſo <hi>Lot does his deciding Providence.</hi> The meer caſu<g ref="char:EOLhyphen"/>alty in man's application, anſwering the words <pb n="14" facs="tcp:109665:9"/>of an Oath in mans <hi>pronunciation;</hi> theſe two, <hi>Lot</hi> and <hi>Oath,</hi> are not ſanctified by applying them to a holy uſe (as Bread, Wine, and Water are in the Sacraments) but being <hi>holy in their own Nature,</hi> they are prophaned, when not ſo<g ref="char:EOLhyphen"/>lemnly uſed. Chriſtian Liberty allows the uſe of Creatures, according to what they are made apt for; but appeals to God, or any other ho<g ref="char:EOLhyphen"/>ly thing, were never made apt for play; no not the common acts whereby means of Com<g ref="char:EOLhyphen"/>munion with God are expreſſed; What an abomination would it be to any Chriſtian man, to ſee a Pulpit, a Communion-Table, a Font expoſed on a ſtage, the Geſtures and Actions of Worſhip aped by the Players, a Dog fed or baptized after the manner of Sa<g ref="char:EOLhyphen"/>cramental Adminiſtration, tho never a word tending to Religion were ſpoken? A man in<g ref="char:EOLhyphen"/>deed may recreate himſelf with Bread, or Wine, he may play with water, wood or ſtone, but not in <hi>that manner,</hi> as any of them are made apt <hi>means for Communion</hi> with God. Now in a Lot the meer caſualty applyed for deciſion of a queſtion is uſed after the
+<hi>ſame manner</hi> that God hath directed men to appeal to him by, as in that Prov. 18.18. for ending or pre<g ref="char:EOLhyphen"/>venting ſtrife; ſo for choice of an Apoſtle, ſetiling the order of the Prieſts ſervice, ſetting out the tenth Lamb, <hi>&amp;c.</hi>
+            </p>
+            <pb n="15" facs="tcp:109665:9"/>
+            <p>That place which moſt plainly ſets forth the very nature of a Lot in general, will beſt clear the point before us: 'Tis the aformentioned, Pro. 26.33. <hi>The lot is caſt into the lap,</hi> There's <hi>mans part</hi> appealing by <hi>diſpoſing</hi> the thing to meer Contingence, and
+<hi>applying</hi> it to a que<g ref="char:EOLhyphen"/>ſtion; <hi>But the whole diſpoſing</hi> (or Judgment) <hi>thereof is of the Lord;</hi> there's <hi>Gods part;</hi> 'tis ſpoken of Lot in the <hi>common nature</hi> thereof, <hi>abſtracting</hi> from <hi>ſacred,</hi> which were by Gods appointment, and <hi>civil,</hi> which being ſerious, are in ſome caſes by him permitted, and cer<g ref="char:EOLhyphen"/>tainly (to my apprehenſion) abſolutely <hi>denying Luſory.</hi> Thus Lot is apt to a holy uſe in its own nature, and ſo not a matter of Indif<g ref="char:EOLhyphen"/>ference. But on the other hand, the meer caſualty is not apt to decide of it ſelf, with<g ref="char:EOLhyphen"/>out appeal to ſome higher power. Oh yes, (ſay ſome) by the
+<hi>conſent</hi> of men. But re<g ref="char:EOLhyphen"/>member, the <hi>ſerious</hi> Lots before mentioned have the conſent of men, yet this conſent adds nothing to the
+<hi>nature</hi> of Lot, only the <hi>uſe</hi> thereof, the determination is expected from another power, after the conſent is paſt; and 'tis a ſtrange thing to conceive, how men acting by determinate judgment ſhould refer their matters to a thing that is wholly inde<g ref="char:EOLhyphen"/>terminate, and has no Judgment at all; men can indeed put <hi>ſignification</hi> on the things caſually happening, as they pleaſe, when they are hapned, (as to ſay, a
+<hi>Siſe</hi> ſhall win, and <pb n="16" facs="tcp:109665:10"/>the <hi>Deuce</hi> ſhall looſe.) But to give the chance power to determine, <hi>which ſhall be,</hi> is neither in the power of man to give, nor the meer chance receive. As for the
+<hi>appeal to providence,</hi> (which ſome deny) and the common, but not ſpecial providence, that they ſay is in it, The very nature of the Lot in its application to a queſtion ſeems ſufficiently to evince, that there is a <hi>ſpecial reſpect</hi> to providence, and that a more ſpecial one, than that whereby I lift up my hand. I do not ſay, that God always
+<hi>exerciſes</hi> a ſpecial providence in every Lot, for he is not at every Child, or fooliſh mans beck; as he does not atteſt in ſinful Oaths, ſo he does not decide in ſinful Lots; Nor do I ſay, that Players do always in their Lots diſtinctly reſpect or eye, ſuch a providence, no more than prophane Swearers think of God, whoſe name they mention; But I ſay, the <hi>nature</hi> of the thing it ſelf (like an <hi>Oath</hi>), reſpects the ſpecial preſence of God, what ever men are thinking. That a Lot is moſt fit for <hi>trivial</hi> matters is moſt falſe, for then, when God has appointed a Lot for deciſion of great, and weighty matters, he has not cho<g ref="char:EOLhyphen"/>ſen the fitteſt means to make known his will by, but ſuch as were fitter for Boys play; which who will dare to ſay? The inſtances commonly alledged, the order of the Prieſt's ſervice, the ſetting out the tenth Lamb, the civil Lot in matters of no great value, or <pb n="17" facs="tcp:109665:10"/>where mans prudence has brought the diffe<g ref="char:EOLhyphen"/>rence to as ſmall as may be; theſe (as was ſaid before), are no great matters in
+<hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> yet the <hi>conſequence</hi> of the conteſt, that might remain about them, might be very great both as to ſin and trouble. As to the <hi>light of nature</hi> pleaded, from the <hi>common uſe</hi> of all Ages and Nations, <hi>&amp;c.</hi> I believe, up<g ref="char:EOLhyphen"/>on due ſearch it will be found to be from the corrupt Bias, and darkneſs of nature, rather than the light thereof. Children play at croſs and pile, head and point,
+<hi>&amp;c.</hi> and de<g ref="char:EOLhyphen"/>light in it, before they have gotten any <hi>evil habits;</hi> But may not theſe be evil <hi>diſpoſitions,</hi> which (if Parents look not timely to it) will prove ſuch habits, as they'l have cauſe to mourn for? They may learn that, while they are Boys, which may undo them, when they are men. <hi>Pagans</hi> play with Lots, they do ſo in a moſt barbarous manner. The <hi>Indians</hi> 'tis ſaid, will at Hucklebone loſe
+<hi>all</hi> they have, and when their Goods are gone, they'l ven<g ref="char:EOLhyphen"/>ture their
+<hi>Wives</hi> and <hi>Children;</hi> and a grave author ſays of the Ancient
+<hi>Germans,</hi> they would Dice away <hi>themſelves</hi> for ſlaves; and is this by the light of nature? No, no, there is ſomething elſe more manifeſt by the light of nature; Namely, that the Lot has in it
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſomething Divine. For the <hi>Pagans</hi> have always thought <hi>ſome Numen</hi> or Deity, did direct their chance; this they called <hi>For<g ref="char:EOLhyphen"/>tune,</hi> 
+               <pb n="18" facs="tcp:109665:11"/>and placed it in Heaven; and do not our common Gamſters follow them herein? Do not they ſay when they play at Hazards, Ple <hi>try my fortune?</hi> So, I had bad fortune, or no luck, the fortune of the Die was againſt me, the Cards are againſt me, and put my hand out, <hi>&amp;c.</hi> What, is it the painted Paper, or pointed Cube? No ſurely, 'tis the <hi>director</hi> of the chance, which they tacitly acknowledg; and what muſt this be? Either <hi>God,</hi> or good
+<hi>Angel</hi> or <hi>Devil.</hi> If <hi>God,</hi> then the cauſe is yielded; if good <hi>Angels,</hi> 'tis yielded alſo, for they act only by Gods Commiſſion; but indeed we read not, that they were ever appointed to ſuch Miniſtry; If the <hi>Devil</hi> (as 'tis moſt likely) by Gods Permiſſion; this they will be aſhamed to own, and there<g ref="char:EOLhyphen"/>fore the former they cannot deny. And thus much to ſhew, that luſory lot is <hi>evil in it ſelf.</hi>
+            </p>
+            <p>I thought not to enter ſo far into this con<g ref="char:EOLhyphen"/>troverſie, being more concern'd with the <hi>end [gain]</hi> than with the <hi>mean [Lot.]</hi>
+'Tis the <hi>gain</hi> that cheifly pollutes the ſport, what ever be the
+<hi>mean.</hi> However, ſince an unwar<g ref="char:EOLhyphen"/>rantable means, to an ungodly end, is ſome<g ref="char:EOLhyphen"/>times joyned in Gaming, and this renders it the more ugly, and therefore the rather to be avoided; and ſince my deſign is to beat down the
+<hi>Gaming-Humor,</hi> whereof luſory <pb n="19" facs="tcp:109665:11"/>Lot is the greateſt nouriſher, I muſt take leave to ſay yet a little more thereto.</p>
+            <p>And firſt conſider, no ſports are ſo <hi>apt to be abuſed</hi> as Lot-Games, and that ſeveral ways. One is, that Men often break out into <hi>curſing</hi> and execrations of Gods Providence under the name of <hi>ill Luck.</hi> Another is, outragious <hi>quarrels</hi> with men, for that being often croſſed in their Expectation, their Paſſions are more vehemently ſtirred. Another, that they <hi>know not when to end;</hi> becauſe, when they are worſted, they have no more reaſon to de<g ref="char:EOLhyphen"/>ſpair of better ſucceſs even to the laſt, than they had at firſt; whereas in other Games, when men ſee themſelves maſtered by ano<g ref="char:EOLhyphen"/>thers better skill, they will ceaſe; but here is no end, till they come to the end of their ſtock; and hence it is, that when men once enter into them, they are uſually beſotted, and even faſcinated with them, until they are ruin'd by them. Conſider again, that luſory Lots being (at the beſt that can be pretended) but <hi>indifferent,</hi> they ought to be forborn, rather than give
+<hi>offence;</hi> now this they com<g ref="char:EOLhyphen"/>monly do, both to <hi>good</hi> and
+<hi>bad,</hi> to the one of <hi>grief,</hi> to the other of
+<hi>ſtumbling</hi> and <hi>hard<g ref="char:EOLhyphen"/>ning.</hi> Hence it is, that the generality of ſuch as fear and reverence God, and warily conſider their own actions, do at leaſt <hi>prudent<g ref="char:EOLhyphen"/>ly,</hi> if not <hi>piouſly</hi> abſtain wholly from, and avoid them. Nor is it a matter of ſmall conſideration
+<pb n="20" facs="tcp:109665:12"/>to thoſe, who value their repute, that a mans credit is commonly blaſted by a frequent uſe of Lot-ſports; for they are ſo eminently em<g ref="char:EOLhyphen"/>ploy'd in Gaming, that the contemptible name of
+<hi>Gamſters</hi> and <hi>Gaming houſes,</hi> do or<g ref="char:EOLhyphen"/>dinarily take their Denomination from them. Laſtly, ſeeing 'tis ſo <hi>diſputable</hi> a point, and by the goodneſs of God there are <hi>unqueſti<g ref="char:EOLhyphen"/>onable Recreations</hi> enough; Why ſhould men meddle with that, which hath (at leaſt) the <hi>appearance</hi> of evil? Diverſions there are
+<hi>enough</hi> in <hi>unqueſtionable</hi> ways. I can ſay in in truth, I have not played with any Lot, (to the beſt of my remembrace) above this thirty Years, and yet never wanted an hours Recreation, when I had leaſure and liſt there<g ref="char:EOLhyphen"/>unto. That it has the <hi>appearance of evil,</hi> is manifeſt by the many <hi>Laws, Canonical, Civil,</hi> and <hi>Municipal,</hi> that are againſt it. You ſee before 'tis <hi>diſputable</hi> amongſt the learned, and therefore may well be <hi>doubtful</hi> to others; and then the Rule is, <hi>in doubt<g ref="char:EOLhyphen"/>fuls men ought to deſiſt.</hi> Some perhaps may make this an <hi>excuſe</hi> to perſiſt, and ſay Mr. <hi>Gattaker,</hi> whom you'l acknowledg a learned and pious man, writ for the
+<hi>lawfulneſs</hi> of the <hi>luſory Lot;</hi> he knew as well what was right, as you, 'tis not therefore as bad as you would make it, and by conſequence we may ſafely uſe it.</p>
+            <pb n="21" facs="tcp:109665:12"/>
+            <p>I anſwer, 'Tis not ſafe practiſing upon <hi>another mans knowledg,</hi> unleſs your ſelf be well informed and ſatisfied by his Reaſons. I might oppoſe to Mr. <hi>G.</hi> Mr. <hi>Fenner,</hi> Mr.
+<hi>Travers,</hi> Mr. <hi>Cartwright,</hi> Mr. <hi>Perkins,</hi> Mr.
+<hi>Eaſty, Peter Martyr, Bahingtons, Balmford, Aneſius, Voetius</hi> and others; who writ both before and after Mr. <hi>G.</hi> ſome againſt the
+<hi>pure</hi> Lot, ſome againſt the <hi>mixt</hi> alſo. I might alſo ſay, Mr. <hi>G.</hi> was a <hi>Young man,</hi> when he write his Book of Lots, <hi>Librorum primitias</hi> as he calls it in his Dedication; and had he foreknown the Anſwers, Replies, and Re<g ref="char:EOLhyphen"/>joynders, this part of it would have occaſi<g ref="char:EOLhyphen"/>oned, 'tis probable he would have paſſed it over, and (if my memory fail me not) I have heard, that himſelf has declared as much to ſome intimately acquainted with him. But I ſhall rather (ſtill owning the worth and repute of Mr. <hi>G.</hi>) refer ye to him, in <hi>other things,</hi> if his credit be ſo great with you, and ſeeing you appeal to Mr. <hi>G.</hi> to him ſhall you go.</p>
+            <p>Mr. <hi>G.</hi> profeſſes, he never intended to a<g ref="char:EOLhyphen"/>nimate
+<hi>Gamſters,</hi> by what he writ about Lots. He lays down <hi>Rules</hi> for thoſe, and all other Recreations, which I am ſure our common Gamſters do little regard; as in his Book of Lots. <hi>P.</hi> 236. and onwards, he ſays,
+<q rend="margQuotes">They <pb n="22" facs="tcp:109665:13"/>muſt always be uſed <hi>ſoberly, ſeaſonably, in<g ref="char:EOLhyphen"/>geniouſly, inoffenſively, prudently,</hi> and <hi>religi<g ref="char:EOLhyphen"/>ouſly,</hi> on all which heads he enlarges; I ſhall only give you ſome brief Notes there<g ref="char:EOLhyphen"/>of.</q>
+            </p>
+            <p n="1">1.
+<q rend="margQuotes">By <hi>ſoberly,</hi> he means
+<hi>moderately</hi> in the <hi>meaſure</hi> and <hi>manner;</hi> the
+<hi>meaſure</hi> is of <hi>time and expence;</hi> of <hi>time</hi> he ſays, ſome men ſpend day and might in gaming; eſpecially, at the uſual ſolemnity of our <hi>Saviour's Nati<g ref="char:EOLhyphen"/>vity,</hi> carrying themſelves (<hi>p.</hi> 238) in that leud and diſſolute manner, that if a ſtranger ſhould come among them, not knowing what Religion they were of, he would rather gueſs them to be worſhippers of <hi>Bacchus,</hi> (the revelling and drunken God,) or of <hi>Saturn</hi> (the rifling and gaming God,) than the ſervants of <hi>Jeſus Chriſt,</hi> the preacher and practiſer of ſobriety and temperance; play muſt be but as <hi>ſauce,</hi> not
+<hi>meat.</hi> As to <hi>mo<g ref="char:EOLhyphen"/>ney,</hi> that nothing be hazarded, but what may well be ſpared. And as to <hi>manner,</hi> without all vehemence or paſſion. <hi>Sports muſt be uſed ſportingly.</hi>
+               </q>
+            </p>
+            <p n="2">2.
+<q rend="margQuotes">
+                  <hi>Seaſonably,</hi> not when we ſhould be a<g ref="char:EOLhyphen"/>bout neceſſary duty, for the good of our ſelves, or families; or about the worſhip of God, as on the Sabbath days, (which, he ſays, Papiſts commonly do.) It ſhould be only that time, which we have free from ſerious, and religious affairs.</q>
+            </p>
+            <pb n="23" facs="tcp:109665:13"/>
+            <p n="3">3.
+<q rend="margQuotes">
+                  <hi>Ingenuouſly, freely</hi> and
+<hi>liberally,</hi> not with any greedy deſire of Lucre; <hi>play</hi> muſt be for <hi>pleaſure,</hi> not <hi>profit. Recreation is no trade</hi> or courſe of life to live by; 'tis to <hi>prey</hi> upon, not to play with, if we deſign gain from any man: 'Tis to <hi>alter the nature</hi> of things, to make a Trade and Traffick of di<g ref="char:EOLhyphen"/>ſport and paſtime, to make the
+<hi>Luſory</hi> a <hi>ſe<g ref="char:EOLhyphen"/>rious,</hi> yea a <hi>ſad</hi> Lot (as it often falleth out.) See the example of him that hanged him<g ref="char:EOLhyphen"/>ſelf in <hi>Trinity Colledg</hi> Hall, where he had loſt his money at Game the night before (in
+<hi>Tra<g ref="char:EOLhyphen"/>vers on</hi> Pſ. 111.) <hi>Ita hae Nugae ſeria ducunt in Mala.</hi> Hor.</q>
+            </p>
+            <p n="4">4.
+<q rend="margQuotes">
+                  <hi>Inoffenſively.</hi> If (as the Apoſtle) in eating and drinking (matters of more ne<g ref="char:EOLhyphen"/>ceſſity) much rather ſhould we in Play. Men ought not therein to offend <hi>Superiors,</hi> Magiſtrate, Miniſter, Parent, Maſter; nor <hi>equals,</hi> to
+<hi>grieve</hi> or <hi>cauſe to fall.</hi> 'Tis unlawful to play needleſly before or with ſuch men as hold theſe games unlawful and are likely to be offended. We ought warily to keep our <hi>credit</hi> good with men, as our conſcience clear to God.</q>
+            </p>
+            <p n="5">5.
+<q rend="margQuotes">
+                  <hi>Prudently,</hi> In reſpect to our
+<hi>ſelves,</hi> a<g ref="char:EOLhyphen"/>voiding ſuch Games as either may be, or we have found to be <hi>occaſions of ſin</hi> to us; as what is apt to ſtir our own, or anothers paſſions with whom we play.</q>
+            </p>
+            <pb n="24" facs="tcp:109665:14"/>
+            <p n="6">6.
+<q rend="margQuotes">
+                  <hi>Religiouſly</hi> and
+<hi>Reverently,</hi> not texclu<g ref="char:EOLhyphen"/>ding Gods <hi>Preſence</hi> in our Play; but not daring to call in Gods <hi>Providence</hi> to help our Play, as ſome prophanely do. Theſe are Mr. <hi>G. his Rules;</hi> nor is he alone in theſe ſen<g ref="char:EOLhyphen"/>timents, for he quotes for confirmation of them, <hi>King James, Biſhop King, Fenner, Eaſty,</hi> and other good Authors. Yea, in the point of <hi>Offence</hi> he cites many Scriptures, and from them all draws this pathetical Exhorta<g ref="char:EOLhyphen"/>on. Therefore where thou findeſt thy li<g ref="char:EOLhyphen"/>berty doth, or may in likelihood offend, there for thine <hi>own</hi> ſake, for thy
+<hi>Brothers</hi> ſake, for his <hi>weakneſs</hi> ſake, for <hi>Chriſt thy ſaviours</hi> ſake, forbear; hold thy ſaith within thy ſelf, keep thy knowledg to thy ſelf, and ſay with the Apoſtle, <hi>If cards or tables offend my brother, I will never play at them, while the world ſtandeth, that I may not offend him.</hi>
+               </q>
+            </p>
+            <p>Now what ſay you to Mr. <hi>T. G.?</hi> Will you yield your ſelves to be <hi>directed,</hi> as well as claim to be <hi>allowed</hi> by him? Elſe never plead his Authority for your practiſe.</p>
+            <p>He concludes his Diſcourſe of thoſe Luſo<g ref="char:EOLhyphen"/>ry Lots with this Remarkable Paſſage (p. 266.)
+<q rend="margQuotes">I could wiſh in this caſe, as the Apoſtle doth in ſome other, <hi>That every one were affected in this point as my ſelf;</hi> That albeit <hi>in Judg<g ref="char:EOLhyphen"/>ment</hi> they be rightly informed of their law<g ref="char:EOLhyphen"/>fulneſs, yet in <hi>godly diſcretion</hi> they would
+<pb n="25" facs="tcp:109665:14"/>rather abandon them, and forbear the uſe, conſidering the too too common, and ordi<g ref="char:EOLhyphen"/>nary abuſe of them; and that many it may be, among whom they live, may remain unreſolved and unſatisfied in the lawfulneſs of them.</q> Thus far this Learned and Pious man; with theſe his laſt mentioned words I ſhall alſo conclude this part; only with this remark, That hereby we may clearly ſee, that Mr. <hi>Gataker</hi> handled this matter as a <hi>Theore<g ref="char:EOLhyphen"/>tical</hi> School point, and not as a
+<hi>practical</hi> Di<g ref="char:EOLhyphen"/>rection of Life; ſeeing he would neither do it himſelf, nor have any others. And ſo much for the <hi>ſecond mean</hi> of Gaming. <hi>Lot.</hi>
+            </p>
+            <p n="3">3. The laſt mean mentioned of Sport and Gain in Gaming is
+<hi>Wager:</hi> 'Tis called <hi>contra<g ref="char:EOLhyphen"/>ctus ſponſionis,</hi> a Contract of promiſing; and is commonly uſed, when there is ſome con<g ref="char:EOLhyphen"/>teſt about the Truth of a Propoſition, con<g ref="char:EOLhyphen"/>cerning ſomething that <hi>is,</hi> or <hi>is not</hi> in being al<g ref="char:EOLhyphen"/>ready; or <hi>will,</hi> or <hi>will not</hi> be hereafter; both par<g ref="char:EOLhyphen"/>ties agreeing, that he who holds the truth, ſhall have a reward, and the other that aſſerted the falſhood, ſhall be mulcted.</p>
+            <p>The thing in it ſelf is not abſolutely un<g ref="char:EOLhyphen"/>lawful or unjuſt: and may ſometimes be of uſe, <hi>to repreſs a fooliſh confidence.</hi> Alſo, where the engagement is only on <hi>one hand,</hi> whereby a man obliges himſelf to do a thing under a penalty; for here it may be of uſe, to ſtir up <pb n="26" facs="tcp:109665:15"/>a laudable induſtry; provided ſuch obligation, wager, or agreement, be not to any matter that is
+<hi>ſinful,</hi> (as who ſhall <hi>Drink</hi> moſt; who ſhall play a
+<hi>Laſcivious</hi> prank, or offer an <hi>inju<g ref="char:EOLhyphen"/>rious abuſe,</hi> &amp;c.) provided alſo that it be not to the <hi>notable loſs</hi> or
+<hi>hazard</hi> of any man, un<g ref="char:EOLhyphen"/>leſs it does conduce to a greater publick good, (which cautions are ſeldom obſerved in com<g ref="char:EOLhyphen"/>mon Wagers), for in ſuch caſes the Wager be<g ref="char:EOLhyphen"/>comes ſinful, and is to be altogether avoi<g ref="char:EOLhyphen"/>ded.</p>
+            <p>Of this evil nature are the <hi>Betts</hi> commonly annext to Gaming, and growing into the ve<g ref="char:EOLhyphen"/>ry nature thereof: This laying of
+<hi>Betts</hi> is ei<g ref="char:EOLhyphen"/>ther by ſome of the <hi>Players</hi> themſelves, or by ſome <hi>ſtanders by.</hi> If a <hi>player</hi> wagers, 'tis a ſign that he is rather a <hi>Gameſter</hi> than a <hi>player,</hi> for that he is willing to have more put to the Hazard, than ſome of the Fellow Players who are more diſcreet and moderate, will adven<g ref="char:EOLhyphen"/>ture in the ſtake: but if the
+<hi>Betters</hi> be by<g ref="char:EOLhyphen"/>ſtanders, they are, be ſure, more <hi>deeply tinged</hi> with Gaming; for that their winning and loſing is moſtly abſtracted from the Sport, which they ſeem not ſo much to value, ſo they may but put money to the Hazard.</p>
+            <p>Both are bad, but this <hi>latter the worſt</hi> of the two; as having Gain for its main end, the chief eſſential of a <hi>vicious Gameſter.</hi> In a word, whether in play, or out of play, he that is much
+<pb n="27" facs="tcp:109665:15"/>addicted on all occaſions, to be Betting and laying Wagers, is either already a Gameſter, or fairly enclined thereunto; and the action it ſelf in general, may well paſs under the cha<g ref="char:EOLhyphen"/>racter which was once given it by a witty man. <hi>[Wagers are fools Arguments.]</hi>
+            </p>
+            <p>Out of theſe two <hi>Lot</hi> and <hi>Wager,</hi> reſults (as a compound) the <hi>Gaming Lottery,</hi> about which (ſays Mr <hi>G.</hi> p.
+124.)
+<q rend="margQuotes">The Civil Lawyers, and others are divided; this and ſuch like, Mr. <hi>Perkins</hi> of <hi>Witycraft,</hi> brings within the com<g ref="char:EOLhyphen"/>paſs of unlawful Games, as indeed (ſays Mr.
+<hi>G.</hi>) the moſt of them are little better; uſed moſt<g ref="char:EOLhyphen"/>ly to help and relieve either baſe ſpend thrifts, or beggarly Bankrupts.</q>
+               <hi>Ameſius</hi> (in his ca<g ref="char:EOLhyphen"/>ſes,) ſays of them, <hi>Eo modo poſſint forſan Inſti<g ref="char:EOLhyphen"/>tui ut eſſent licita;</hi> They might perhaps be or<g ref="char:EOLhyphen"/>dered ſo, as to be lawful; as if there be need of contribution to ſome pious uſe, and to avoid Inconveniencies it were permitted to the Lot, who ſhould contribute; mean while, thoſe that caſt the Lot, muſt not do it illiberally, it muſt be without deſire to gain, only deſign to con<g ref="char:EOLhyphen"/>tribute to the uſe. But (ſaith he) as they are commonly uſed, they are unlawful, being com<g ref="char:EOLhyphen"/>poſed with fallacy and deceit for private gain, and yielding occaſion for many evils. In this for<g ref="char:EOLhyphen"/>mer ſenſe of
+<hi>Ameſius,</hi> 'tis probable, <hi>Magiſtrates</hi> do ſometimes grant Licences for them; 'tis not to be ſuppoſed they ever intended to have the
+<pb n="28" facs="tcp:109665:16"/>people cheated, or to have them nouriſhed up in a
+<hi>Gaming humor.</hi> Thoſe that ſue for Li<g ref="char:EOLhyphen"/>cenſes under ſpecious pretences, (of planting a Colony, relieving Indigents, <hi>&amp;c.</hi>) may per<g ref="char:EOLhyphen"/>haps uſe plauſible ſuggeſtions; as, That there is a looſe ſort of Gameſters, from whom never any thing will be drawn for a good uſe, or pub<g ref="char:EOLhyphen"/>lick ſervice, unleſs they be met in their own way, and ſomething ſuitable to their humor be propoſed. Now, whether they deal ſincere<g ref="char:EOLhyphen"/>ly or no, I know not; but this is manifeſt, That Royal Bounty and Charity is often abuſed to the peoples Damage. Such an inſtance is in <hi>Brief gatherers,</hi> I mean thoſe who make a Trade of it: The deſign in the Grantee is noble and great, but the ſordid abuſe of it is ſometimes egregious. I once lived near a man who made it his buſineſs to purchaſe Briefs, and then go about the Country to gather them; he was a notable Thief, for which he came at laſt to the Gallows; however in the mean time, be<g ref="char:EOLhyphen"/>fore he was fully diſcovered, his Briefs were his Protection to ſtrake the Countrey, and view advantages for his Robberies. We that live at the lower end of the World, and feel the Inconvenience of theſe things, may I hope without offence, humbly crave leave to repre<g ref="char:EOLhyphen"/>ſent our Grievances, not without good hope of a redreſs. Mean while, if people would conſider, That mens very
+<hi>procuring of a Licenſe,</hi> im<g ref="char:EOLhyphen"/>ports <pb n="29" facs="tcp:109665:16"/>a
+<hi>profit</hi> to themſelves, they might eaſily infer 'twould be <hi>a loſs</hi> to others (of which Sir, you may, if you pleaſe, make one; if not, pray ſtand aſide, and make Room for thoſe that will). And having this fair warning before hand, <hi>Si populus decipi vult, decipiatur.</hi> The thing which I diſapprove is this (not meddling with any thing that has publick allowance, which I underſtand not.) 'tis a <hi>Wager upon a Lot at very great odds;</hi> a crafty device, where<g ref="char:EOLhyphen"/>by ſilly people have their eyes dazled with the ſhining of ſlight Plate, gilt Looking glaſſes, and ſuch other Toys; and by theſe Baits fairly ſet forth before them, have their fancies and hopes fill'd with Golden Mountains; and ſo are incited to throw away ſome ſmall parcels of their money, in expectation of far greater advantage; in the mean while, he that keeps the Lottery, is almoſt ſure to become the Gainer; for the Odds of the Wager may per<g ref="char:EOLhyphen"/>haps be <hi>Twenty to One,</hi> when there is ſcarce <hi>Four to One</hi> difference. As for inſtance; Sup<g ref="char:EOLhyphen"/>poſe <hi>one</hi> ſhilling be put to the Hazard, and the
+<hi>premium</hi> or prizes, (one with another) be valued at <hi>four ſhillings;</hi> here the Lotterer wa<g ref="char:EOLhyphen"/>ges his <hi>four ſhillings</hi> to your <hi>one ſhilling</hi> that you ſhall not win. On the other hand, ſuppoſe there are <hi>twenty</hi> blanks to <hi>one</hi> ſignificant; then the Adventurer (as he is called,) wa<g ref="char:EOLhyphen"/>ges <hi>twenty</hi> to <hi>one</hi> that he <hi>ſhall win.</hi>
+            </p>
+            <pb n="30" facs="tcp:109665:17"/>
+            <p>The Compoſition of theſe two Wagers makes one, that is 20, to
+4, (or 5, to 1,) when indeed there is <hi>no difference</hi> in the
+<hi>know<g ref="char:EOLhyphen"/>ledg</hi> of either, (what ever be in the confi<g ref="char:EOLhyphen"/>dence) unto which of the two the Lot<g ref="char:EOLhyphen"/>guiding ſpirit for the preſent will be moſt courteous; only be ſure upon the ſquare, 'tis 5, to 1, that the one gains, and the other loſes. Whether thoſe be the exact proporti<g ref="char:EOLhyphen"/>ons of ſuch
+<hi>Lotteries,</hi> I know not, neither care to know; being without it well enough aſſured, that they are contrived to be ſafe on the Lotterers part, and hazardous on the others; or elſe, ſurely the Lotterers would not fol<g ref="char:EOLhyphen"/>low the trade. And this methink ſhould ſuf<g ref="char:EOLhyphen"/>ficiently warn men, that they meddle not with this ſort of gaming.</p>
+            <p>Another Lot and wager Game is <hi>rifling,</hi> when a thing is bought with a common ſtock, and then expoſed for the Lot to decide, who ſhall have it, as, ſuppoſe five men buy a thing for five ſhillings, and each man pay one ſhil<g ref="char:EOLhyphen"/>ling. Here the Wager is 1 to 4, that he
+<hi>ſhall</hi> have it; and 4 to 1, that he <hi>ſhall not.</hi> The
+<hi>balance</hi> in this hangs <hi>equal</hi> as to the ad<g ref="char:EOLhyphen"/>venture; only the
+<hi>deſire of gain</hi> by play, and <hi>trifling with the Lot,</hi> bring it under the vitious gaming.</p>
+            <pb n="31" facs="tcp:109665:17"/>
+            <p>
+               <hi>Enſurance,</hi> buying a <hi>Fiſhers draught,</hi> and ſome other ways of Trading, when men pro<g ref="char:EOLhyphen"/>ceed in them more upon bold adventure, and trying fortune or chance, than prudent conſideration of all circumſtances, are little different from a gaming-Wager, and therefore to be avoided by prudent, and con<g ref="char:EOLhyphen"/>ſidering men.</p>
+            <p>And thus much for the Explication of the <hi>Gaming-Humor,</hi> which chiefly conſiſts in <hi>hazarding to Loſe,</hi> with
+<hi>deſires</hi> and <hi>hope to Gain.</hi> We ſhall now endeavour to ſhew the <hi>Inordinacy</hi> thereof. In order thereunto we ſhall lay down ſome things to be granted, and ſome things to be denyed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="granted" type="propositions">
+                        <head>To be <hi>Granted</hi> are.</head>
+                        <p n="1">1. That 'tis lawful for a man to uſe his mo<g ref="char:EOLhyphen"/>ny, or moneys-worth, for procuring his <hi>Re<g ref="char:EOLhyphen"/>creation;</hi> becauſe Recreation in Time, Place, and Meaſure, with other due circumſtances, may be as neceſſary or convenient for him, as Food and Rayment, and may be as honeſtly ſought after. Now what has a man Money, or any good thing for, but to uſe either in <hi>kind,</hi> if the nature of the thing be ſuch; or with its <hi>value</hi> to procure any other good thing, if it be Honeſt, Convenient, or Neceſ<g ref="char:EOLhyphen"/>ſary?</p>
+                        <pb n="32" facs="tcp:109665:18"/>
+                        <p n="2">2. It may be alſo granted, that the uſe of Money for the end mentioned, Recreation; may be either <hi>Expence</hi> for the convenient Utenſils of play; or a moderate <hi>Depoſitnm</hi> (or ſtake)
+<hi>ſometimes,</hi> where the party does <hi>need to be quickned,</hi> or more engaged herein. As ſuppoſe the party that needs Exerciſe, be
+<hi>Aged. Melancholy,</hi> too <hi>Thoughtful,</hi> or <hi>In<g ref="char:EOLhyphen"/>volv'd in buſineſs;</hi> ſuch are not apt to be ſo much concern'd in their play, as is conve<g ref="char:EOLhyphen"/>nient for them. 'Tis not therefore always, or abſolutely ſinful, to play with the hazard or expence of money.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div n="denied" type="propositions">
+                        <head>Yet on the other hand it muſt be
+<hi>denyed,</hi>
+                        </head>
+                        <p n="1">1. That <hi>playing for money</hi> is ever lawful; that is, to make the <hi>Gain the end</hi> of the Play. It perverts the order and nature of things ſo to do; it deſtroys the neceſſary Diſtincti<g ref="char:EOLhyphen"/>on between <hi>Work</hi> and <hi>Play;</hi> it croſſes the Ordination of God, diſcovered in Scripture, who every where (that I can obſerve) aſ<g ref="char:EOLhyphen"/>ſigns profit to be the product and fruit of <hi>La<g ref="char:EOLhyphen"/>bour. In all labour there is profit,</hi> Prov. 14.23. <hi>He gathereth by labour,</hi> Ch. 13.11. <hi>The hand of the diligent maketh rich,</hi> Ch. 10.24. <hi>Let him labour, working with his hands the thing that is good, that he may have,</hi> &amp;c. Eph.
+4.28. and many more places of this kind might be alledged.</p>
+                        <pb n="33" facs="tcp:109665:18"/>
+                        <p n="2">2. I deny that any man can play <hi>for gain</hi> in
+<hi>faith,</hi> and therefore not without ſin; The former propoſition is manifeſt, becauſe faith muſt have a <hi>Promiſe</hi> for 'tis foundation; But play has no <hi>promiſe</hi> of <hi>profit,</hi> nor increaſe, that I know of; all are given to labour, and induſtry (as is before n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ted.) <hi>For a man to eat and drink, and make his Soul enjoy the good of his labour</hi> (not play) <hi>this alſo. I ſaw, that it was from the hand of God.</hi> Eccleſ. 2.24. But from whoſe hand the gamſter th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ves, let him enquire; perhaps upon due ſearch he will find, that the <hi>hand of</hi> Satan <hi>is in all this.</hi> To cheriſh his corrupt inclinations, to debauch his conſcience from the fear and awe of God, and to make him Atheiſticall and Heatheniſh, in admiring
+<hi>Fortune</hi> as the giver of his good.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>The latter propoſition is as manifeſt from Rom. 14 23.
+<hi>Whatſoever is not of Faith, is Sin.</hi> A general propoſition applicable to <hi>all caſes,</hi> and not to be reſtrained to the parti<g ref="char:EOLhyphen"/>culars of Meats, and the worſhip of God there mentioned: For, whatſoever a man does, in what kind ſoever, he muſt take care, and make conſcience therein, ſo as being in the way of his duty, he may have ground to believe, that what he does is well pleaſing to God, and that he may therein expect his <pb n="34" facs="tcp:109665:19"/>bleſſing: <hi>This only</hi> is to
+<hi>do a thing in faith.</hi> And thus a man, after a tireſom induſtry, may recreate himſelf, or <hi>play in faith,</hi> expecting Gods bleſſing thereon, for attaining its <hi>pro<g ref="char:EOLhyphen"/>per</hi> end. But in the way of Gaming, and the gains thereof, a <hi>Curſe</hi> rather than a bleſ<g ref="char:EOLhyphen"/>ſing may be expected, if I rightly underſtand that place, Pro. 13.11. <hi>VVealth gotten by va<g ref="char:EOLhyphen"/>nity ſhall be diminiſhed; but he that gathereth by labour, ſhall increaſe.</hi> If any thing deſerves the name of <hi>Vanity,</hi> I think
+<hi>Gaming</hi> does; when men from it do <hi>unwarrantably expect a profit.</hi>
+            </p>
+            <p n="3">3. 'Tis denied, that <hi>young ones</hi> (of all others) have any <hi>need, power, authority,</hi> or the leaſt ſhew of
+<hi>convenience,</hi> to warrant them in putting Money, or Moneys worth, to hazard in their play but many and manifeſt motives to the contrary. For,</p>
+            <p n="1">1. The <hi>vehemence</hi> and <hi>activity</hi> of their
+<hi>paſ<g ref="char:EOLhyphen"/>ſions</hi> are commonly too great of themſelves, ſo as they need not the <hi>ſtake</hi> or <hi>Wager</hi> to excite them. Indeed the dull Souls before-men<g ref="char:EOLhyphen"/>tioned, the over-worn with buſineſs, and too<g ref="char:EOLhyphen"/>much involved in it, may ſometimes (as is before noted) uſe this hazard, to avocate their minds: But youth needs no avocation from buſineſs; 'tis work enough for them to keep their minds thereunto.</p>
+            <pb n="35" facs="tcp:109665:19"/>
+            <p n="2">2. Young ones <hi>under age</hi> have not that
+<hi>pro<g ref="char:EOLhyphen"/>priety</hi> in Money, as to Lay it out, or put it to hazard, otherwiſe than as they are directed. Men give their Children Money, as God gives all good things to men; not to loſe his <hi>own propriety</hi> therein;
+'tis <hi>his</hi> Corn, <hi>his</hi> Wine, <hi>his</hi> Wool, &amp;c. both
+<hi>after,</hi> as well as <hi>before</hi> he beſtows them on us; he gives them not, that men ſhould ſpend them as they liſt; but ac<g ref="char:EOLhyphen"/>cording <hi>to rule,</hi> and ſo as they muſt be accoun<g ref="char:EOLhyphen"/>table for them. So prudent Parents, or Guardians, put Money into the hands of youth, perhaps to
+<hi>try</hi> and <hi>diſcover</hi> their inclinations, But never by expreſs order, or any reaſonable preſumptive conceſſion, to ſpend it in any evil courſe, to learn thereby to Game, and play it away; and where this is done without ſuch permiſſion, 'tis a kind of <hi>Robbing Father</hi> and
+<hi>Mother,</hi> contrary to <hi>Pro.</hi> 28.24. The reaſon is, becauſe herein they embezle the parents propriety without their conſent. And ſo there is <hi>injuſtice</hi> in the caſe.</p>
+            <p n="3">3. Again, Youth has not the <hi>diſcretion</hi> to conſider the <hi>value of Money.</hi> They neither can <hi>Earn it themſelves,</hi> nor conſider with what <hi>difficulty others do.</hi> That may be gotten by hard labour, and ſollicitous care, which they unadviſedly ſpend, and careleſly put to hazard. 'Tis a great incongruity, that play
+<pb n="36" facs="tcp:109665:20"/>ſhould waſt what induſtry has wrought for. They neither know what Mony coſts, nor what it can procure. They conſider not, how uſeful, and helpful that Money might be to others that are indigent perſons, who can hardly eat Bread by the ſweat of their brows; ſo that hereupon grows a contempt of the poor, and a hardneſs of heart towards thoſe that are in diſtreſs. Tell a young Gal<g ref="char:EOLhyphen"/>lant in the fluſter of his Gaming, how ſad it is with the now perſecuted <hi>French Proteſtants,</hi> that have fled for their Religion and lives, and loſt their eſtates; how unable they are to ſet upon any employment for want of ſtocks to begin with.</p>
+            <p>Tell him farther, that ſo much as is ſometimes ſtaked or betted at once, at leaſt ſo much as is more commonly won and loſt at a ſitting, would ſet up one or more of ſuch diſtreſſed Fa<g ref="char:EOLhyphen"/>milies in an honeſt employment, which might afford them a comfortable maintenance; bid him conſider Gods Poor; bid him think of his own <hi>Country labourers,</hi> their great pains for a poor maintenance, their ſorry Cottage, mean habits, pennileſs purſes, and hard fare; and y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that they provide for him the fatteſt Dainties, and the fineſt of the Wheat to feed on; That the contemptible Clown is of the ſame Clay with himſelf, and that there is no difference
+<pb n="37" facs="tcp:109665:20"/>betwixt them, but that which Gods holy Pro<g ref="char:EOLhyphen"/>vidence hath made, <hi>&amp;c.</hi> Tell him theſe or ſuch like things that might move him to Compaſſion, and what will his Anſwer be, but Tuſh, what care I; let them go as they are; I have other employment for my money? <hi>&amp;c.</hi> This ugly hard-heartedneſs is bad in all, but worſe in thoſe who ſetenderneſs of nature, and Genteile Education ſhould render them more compaſſi<g ref="char:EOLhyphen"/>onate.</p>
+            <p n="4">4. Youth is in the way of <hi>forming habits</hi> which will influence all their future Lives; Boys play, is mens earneſt; ſmall matters may begin what greater may unhappily end. As a young Thief may begin with ſtealing Farthings, and after by Degrees grow on to the greateſt outrage; ſo the young Gameſter may covet, lurch, Quarrel about a ſmall ſtake; may laviſh, hector, and adventure in pence, till at laſt by this means the
+<hi>gaming</hi> humor be rooted in him, and then Crowns, Angels, Pounds, (when they come to hand) are no more valued; yea, their whole Eſtates, how great ſoever, are of no more conſideration than the Childrens Hop-ſtones. If the <hi>Lads cannot,</hi> I hope the <hi>Parents</hi> will conſider how they indulge Pins and Poynts, to lead the way, that Lands and Tenements may not follow after.</p>
+            <pb n="38" facs="tcp:109665:21"/>
+            <p>Add to this, that Gaming in Youth <hi>ſpoils their Temper</hi> for Con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſe; 'twill render them ſo peeviſh, croſs, quarreſiom, deceitful, and ſuch other untoward Diſpoſitions will it be<g ref="char:EOLhyphen"/>get, that no man with comfort can have to do with them; for (as is before noted) Ga<g ref="char:EOLhyphen"/>ming does naturally conduce to
+<hi>exalt all the paſſions</hi> above the due Decorum; a thing that is very uncouth for Society.</p>
+            <p n="5">5. Youth does little conſider the <hi>value of their time,</hi> becauſe they are apt to promiſe themſelves a <hi>long life yet to come,</hi> whereas, alas! one future moment is more than they can rea<g ref="char:EOLhyphen"/>ſonably pretend to: Now as all play and ſport is a <hi>paſtime,</hi> and is apt to beguile us by its pleaſure; ſo none comes nigh to Gaming in this reſpect. Some exerciſes which men call play, are very tedious waſters of Time; <hi>Cheſs</hi> has an ill Character for this, (beſides that it is rather a <hi>tireſom ſtudy,</hi> than a <hi>cheerful ſport</hi>) worſe are <hi>Lot games</hi> (as is before noted). But worſt of all is any Play whatſoever, when Gaming for money is exerciſed therein. Play for money does always draw on Game after Game, even to unſeaſonable hours of the night, as well as moſt hours of the day. The Winner cares not how long he plays while his hand is in, and the others ſtock ſhall bear his charges, The Loſer alſo (ſtill hoping for better luck)
+<pb n="39" facs="tcp:109665:21"/>is loth to give over, and go away by the loſs.</p>
+            <p n="6">6. And laſtly (not to mention more) Youth is in greateſt danger of <hi>had Company</hi> and <hi>Acquaintance;</hi> and where can they have worſe than the Gaming Humor leads to? At Gaming Places you may meet thoſe who will rather pad than want for a ſtock to game with; hence the many Robberies near Gaming, Re<g ref="char:EOLhyphen"/>velling and idle times, which all men hear of, and ſome do feel to their loſs; yea, 'tis hardly ſeen, that there is a
+<hi>vitious Perſon</hi> in any kind whatſoever, but he hath <hi>this</hi> commonly added to the Reſt, that he is a <hi>Gameſter.</hi> In thoſe ve<g ref="char:EOLhyphen"/>ry bad men, 'tis the uſual Method of Inſinu<g ref="char:EOLhyphen"/>ation, to invite to play a game, and paſs an hour. Dice, Cards, and Tables, in Gaming-Ordinaries are at hand, and cuſtom hath made it familiar to play with any, tho never ſeen before. Here the Acquaintance begins; and where it will end, God knows; but the fool<g ref="char:EOLhyphen"/>iſh young man doth not conſider it. And thus much of <hi>youngſters gaming.</hi>
+            </p>
+            <p n="4">4. It is denied, That young or old may put their money to hazard by <hi>play with offence.</hi> Here I muſt refer you back to what is ſaid of the <hi>luſory <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lot</hi> in this reſpect, and what Mr. G. ſays of play in the General. Only I ſhall now add, that great occa<g ref="char:EOLhyphen"/>ſion <pb n="40" facs="tcp:109665:22"/>of Offence is given by Money-Gaming, both in <hi>old</hi> and <hi>young.</hi>
+            </p>
+            <p>When <hi>Elder</hi> Perſons, who ſhould have more diſcretion; when Magiſtrates, or Miniſters, or other exemplary Perſons, ſhall upon publick Bowling-Greens be ſeen and obſerved, bet<g ref="char:EOLhyphen"/>ting, ſtaking and wagering, beyond the meaſure needful and before allowed; Oh, how does it <hi>encourage their inferiors</hi> to be enga<g ref="char:EOLhyphen"/>ging in the like unwarrantable practiſe? How often do <hi>young ones</hi> when they are
+<hi>rebuked,</hi> al<g ref="char:EOLhyphen"/>ledg for excuſe the example of graver Per<g ref="char:EOLhyphen"/>ſons? Thus comes the offence of <hi>ſtumbling</hi> to weaker Perſons, who may hereby fall (per<g ref="char:EOLhyphen"/>haps) to their Ruin. Hereupon follows the offence of <hi>grief;</hi> eſpecially to Parents, Maſters, Guardians and Tutors, that ſuch evil example ſhould thus be given, and their Charge be thereby miſled. Thus
+<hi>at home;</hi> and as for people <hi>abroad,</hi> they generally look upon young perſons with <hi>expectation</hi> how they will prove, when if they find them inclined to gaming, they preſently entertain bad thoughts of them; ſo early is their repute blaſted in the bud, and their good name is gone ere they have any great name in the world.</p>
+            <pb n="41" facs="tcp:109665:22"/>
+            <p n="5">5. 'Tis denied, That any ſhould play <hi>for more</hi> than what they are ready and willing, <hi>ſo often</hi> to impart to
+<hi>others neceſſities;</hi> elſe it may be charged on their conſciences, that they mind more their own pleaſure, than <hi>the Afflictions of Joſeph</hi> (Amos 6.6.) for that they were ready to expend much more that way than this. King <hi>James</hi> in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> adviſes his Son, to <hi>play only for recrea<g ref="char:EOLhyphen"/>tion, and reſolve to hazard the loſs of all that ye play;</hi> for that <hi>cauſe play no more than you care to caſt among pages.</hi>
+            </p>
+            <p>If any, having a plentiful Eſtate, ſhould alledg, They can well ſpare what they ad<g ref="char:EOLhyphen"/>venture at Play; I ſay, It were moſt Pru<g ref="char:EOLhyphen"/>dent and Pious to ſtoop the brim of their overflowing-Cup toward that ſide as may be ſome way ſerviceable to both God and Man; as might give Drink to the thirſty Soul; <hi>That their abundance might be a ſupply to the others want,</hi> according to the counſel of the Holy Ghoſt (2 <hi>Cor.</hi>
+8.14.) and con<g ref="char:EOLhyphen"/>ſequently glorifie God (as <hi>Chap.</hi> 9.11.) <hi>be<g ref="char:EOLhyphen"/>ing enriched to all bountifulneſs, which cauſeth through</hi> the Relieved,
+<hi>thanksgiving</hi> to God. But, alas! It is a matter of ſad conſideration, That they who <hi>ſpend moſt</hi> on their
+<hi>Luſts,</hi> and (particularly) are moſt large in their Ga<g ref="char:EOLhyphen"/>ming, are generally <hi>moſt penurious</hi> when a <pb n="42" facs="tcp:109665:23"/>
+               <hi>due object</hi> of Charity is preſented. I ſay, [a <hi>due object,</hi>] for they may be laviſh enough in a prodigal humor, upon Paraſites, and lend Raſcals that hang about them; when both their Hearts and Hands are ſhut faſt, where God calls for their Munificence.</p>
+            <p>Now, to <hi>diſſuade</hi> from this wicked imperti<g ref="char:EOLhyphen"/>nence, I ſhall conclude the preſent Diſcourſe, with propoſing to Conſideration what may be gathered from the above-ſaid particulars concerning the inordinacy of Affections that is ingredient to the
+<hi>Gaming-humor.</hi>
+            </p>
+            <p>'Tis a thing <hi>compounded of contradictions</hi> and abſurdities; prodigality and covetouſ<g ref="char:EOLhyphen"/>neſs do here kiſs each other; Laviſhneſs in the <hi>Adventure,</hi> yet ſordid Greedineſs in the
+<hi>hopes of Gain.</hi> 'Tis notable Sagacity, yet great Idleneſs; much Art, and much Folly; <hi>Ars iners,</hi> may be better applied to it, than to any thing that I do know. But true Art is long, and Life is ſhort; Time is precious, and Money may be put to better uſe.</p>
+            <p>Therefore I would adviſe all, that will take counſel, That they put and keep eve<g ref="char:EOLhyphen"/>ry thing in its <hi>right channel.</hi> Let Play be Play, and Work be Work; either Play for recreation only, in order to buſineſs (its <pb n="43" facs="tcp:109665:23"/>
+               <hi>proper end</hi>) or let it alone; for otherwiſe
+'tis good for nothing, but to waſte Time. Let buſineſs only aim at Gain; ſo is the order of Nature and Gods Ordination (as is be<g ref="char:EOLhyphen"/>fore Noted). To let Play encroach upon the end of Labour, is to caſt a ſcorn up<g ref="char:EOLhyphen"/>on that threat of God, <hi>In the ſweat of thy face ſhalt thou eat bread, until thou return un<g ref="char:EOLhyphen"/>to the ground,</hi> (Gen. 3.19.) Tho you ſee many extravagant in the Gaming-vanity, yet <hi>follow not a multitude to do evil,</hi> (Exod.
+23.2.) Are thoſe many, of the <hi>better ſort</hi> of Men? Are they the beſt Moraliſts you know? Is it the <hi>common</hi> practice of the
+<hi>generality</hi> of thoſe that fear God, and conſider their ways? Think of <hi>the way of good men</hi> commended to our imitation, (<hi>Prov.</hi>
+2.20.) yea, rather think of the greateſt and <hi>beſt example,</hi> our
+<hi>Bleſſed Saviour,</hi> who was wont to put Money to <hi>better uſes.</hi> We read of Money procured by a Miracle to <hi>pay Tribute</hi> to avoid <hi>offence,</hi> tho nothing was due; But our Gameſters, by abuſe of their Money, care not if they offend either God or man: Theſe drive a Trade which pays neither Tax nor Toll, Exciſe nor Cuſtom, and is no way uſeful to either King or Country. Our Saviour had in his Society a Bag kept to
+<hi>Relieve the Poor,</hi> and buy Neceſſaries: And after him, his Diſciples were willing to impart what <pb n="44" facs="tcp:109665:24"/>they had to the Poor, that begged Alms; <hi>ſilver and gold have I none,</hi> (elſe would I give it thee) <hi>but ſuch as I have, give I unto thee,</hi> (Act. 3.6.) What would a Gameſter ſay? Silver I have by heaps, and Gold by handfuls, but not one Mite for the Temple-Treaſury. Our Lord's ſtock was ſmall in this World; but there is not the leaſt hint, that either he, or his, uſed Gaming to in<g ref="char:EOLhyphen"/>creaſe it. When <hi>Tully</hi> proſecuted <hi>Cataline</hi> and his Complices, he chargeth them with Ga<g ref="char:EOLhyphen"/>ming, <hi>Aleatores, adulteri, impuri, impudicique omnes:</hi> And when he would ſpit fire in <hi>An<g ref="char:EOLhyphen"/>thonies</hi> face, he laieth to his charge, <hi>That he was a Dicer himſelf, and his Houſe a common receptacle of ſuch.</hi> So certainly the
+<hi>Phariſees,</hi> who from Chriſts innocent ſociableneſs, and moderate refreſhment, took occaſion to reproach him as a <hi>wine-bibber and a glutton,</hi> would doubt<g ref="char:EOLhyphen"/>leſs have called him <hi>Gamſter</hi> too, if the leaſt pretence could have been had to faſten it upon him. Now <hi>he that ſaith he abideth in him, ought to walk even as he walked,</hi> (1 John
+2.6.) ought to <hi>act</hi> like him, in what he is <hi>imitable;</hi> and
+<hi>forbear,</hi> like him, every thing that is <hi>evil,</hi> or hath the
+<hi>appearance</hi> thereof. This is another kind of Argument than that weak one, [we read not that he laught, <hi>er<g ref="char:EOLhyphen"/>go</hi> we muſt not:] which I could fully clear; but that I love not to write long Books, and <pb n="45" facs="tcp:109665:24"/>Gamſters care as little to read them. In a word: think of the great
+<hi>Account</hi> we muſt render of all our Talents (particularly of
+<hi>Time</hi> and <hi>Money</hi>) to the Soveraign Lord and Judg of all. Will it not ſound well then to ſay, I often wanted time for ſecret Prayer, and as often found time for Gaming, even from Noon to midnight? My worldly bu<g ref="char:EOLhyphen"/>ſineſs have frequently hindred my Devoti<g ref="char:EOLhyphen"/>ons; but I ordered it ſo, they ſhould never interrupt my Sports. Such a Day I deni<g ref="char:EOLhyphen"/>ed Pence to thy diſtreſſed Saints; and the ſame Day among Rufflers adventured Shil<g ref="char:EOLhyphen"/>lings or Pounds to ſatisfy the <hi>Gaming-hu<g ref="char:EOLhyphen"/>mor.</hi>
+            </p>
+            <p>But if theſe glorious conſiderations do dazle your Bat-like Eyes, ſo as (I fear) you cannot look towards them; do but look a while on
+<hi>Temporary</hi> things, and ſee the folly of this project to <hi>Thrive by.</hi> Cannot the Gamſters obſerve, That the <hi>God of this World</hi> has a running Caſh, a <hi>Gaming-ſtock</hi> in moti<g ref="char:EOLhyphen"/>on? And how he
+<hi>Balances gain and loſs</hi> on<g ref="char:EOLhyphen"/>ly to uphold the Trade? Many have Sold their Inheritances, (<hi>one</hi> fooliſh <hi>ſinner deſtroy<g ref="char:EOLhyphen"/>eth much good,</hi> Eccl. 9.18.) But who ever Purchaſed an Eſtate by Gaming? The ſub<g ref="char:EOLhyphen"/>tile Fiend is like the <hi>Butler</hi>'s-<hi>Box,</hi> whoever loſes, he wins: he gets mens <hi>Eſtates</hi> to be ad<g ref="char:EOLhyphen"/>ded <pb n="46" facs="tcp:109665:25"/>to his ſtock; he gets mens <hi>Time;</hi> and (which is worſt) he gets better hold of mens Souls, and wreſts out of them all manner of Conſcience that ſhould any way deter them from the vileſt wickedneſs. Have you never heard (what was before noted), That Robbings and Burglaries are moſt frequent towards the time of <hi>Bacchanals</hi> and <hi>Saturnals,</hi> when Gaming Widgeons and Wood-cocks come moſt in ſeaſon? And why is it, but that the Bullies may be furniſhed with a Trading-ſtock, in hope of conſiderable Gains? But, alas! after the time is over, they muſt to their old Padding-Trade again, even to repair their Loſſes.</p>
+            <p>Well: but you will ſay, Then ſurely ſome do get, and give over Gaming to pre<g ref="char:EOLhyphen"/>vent their Loſs again; ſome Purchaſe E<g ref="char:EOLhyphen"/>ſtates, and ſo draw out of the <hi>Devils ſtock</hi> (as you will have it call'd,) or elſe, that Stock would exceed all Bounds: The greateſt part of the Sale mony of ſo many <hi>Eſtates,</hi> and the <hi>Prey</hi> of ſo many
+<hi>Rohberies,</hi> running ſtill into it; beſides a conſiderable ſum by <hi>Apprentices cheating</hi> their Maſters; and other by-ways: Surely it muſt exceſ<g ref="char:EOLhyphen"/>ſively encreaſe, and even tranſcend a Kings Revenue.</p>
+            <pb n="47" facs="tcp:109665:25"/>
+            <p>I Anſwer,</p>
+            <p>It would ſo indeed, had not the Great Maſter thereof ſome other Outlets for what is ſuperfluous; What the Gaming-Houſe leaves, the Tap-Houſe, Tavern, and Whore-Houſe receives: for Gameſters ſeldom want
+<hi>other expenſive Vices.</hi> And (according to that ſaying of ſome)
+<hi>what is gotten over the Devils back, is commonly ſpent under his belly:</hi> And therefore, tho the incomes be great, yet the out-goings being anſwerable there<g ref="char:EOLhyphen"/>to, the Gaming-ſtock is no farther encreaſed, than Satan ſees fit to carry on the buſi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>But perhaps our dull-ey'd Gameſter can<g ref="char:EOLhyphen"/>not ſee Reaſon in this neither. What ſhall I ſay farther? If you cannot behold either
+<hi>God</hi> or <hi>Devil,</hi> will you pleaſe a while to turn your Eye upon
+<hi>Men,</hi> and conſider, how low your <hi>Reputation</hi> runs with them, tho your Gains by Gaming are very great. In all o<g ref="char:EOLhyphen"/>ther ways of getting Riches, mens <hi>Credit en<g ref="char:EOLhyphen"/>creaſes,</hi> as their <hi>Eſtates do;</hi> but here
+'tis <hi>quite otherwiſe:</hi> for let a Gamſter get this Day a Thouſand Pounds, yet no Prudent man (that knows it) will truſt him for a Groat; for ere the next Morrow, it is as probable he may be as many Pounds worſe than no<g ref="char:EOLhyphen"/>thing. <pb n="48" facs="tcp:109665:26"/>But, alas! too often a <hi>Credit is gotten be<g ref="char:EOLhyphen"/>fore</hi> this vile humor is <hi>diſcovered,</hi> whereby many an honeſt man goes Mourning by the loſs: Hence grievous complaints of ſome, That they cannot carry on their honeſt Trades, for that their Money is gotten into Huckſters hands: Such, upon inqueſt, per<g ref="char:EOLhyphen"/>haps may find out their
+<hi>Debtors</hi> in <hi>Alſatia,</hi> a Priſon, a Sanctuary under Protection; but they ſhall find their <hi>Money,</hi> I know not
+<hi>where,</hi> nor <hi>when.</hi> One Story I have Reaſon to re<g ref="char:EOLhyphen"/>member, of a young man that carried him<g ref="char:EOLhyphen"/>ſelf very Civilly, and made a fair Profeſſion of ſerious Religion; he thereby got Friends, and by their Credit, a Stock to ſet up a gain<g ref="char:EOLhyphen"/>ful Trade: But he proved after, a <hi>ſecret Gamſter,</hi> (for any hole will ſuit a Deed of Darkneſs:) and that <hi>Civil Gun-Powder</hi> (as one calls it) ſuddenly blew up the Man, and his Houſe, and left all his Friends in the lurch; <hi>I my ſelf</hi> Paid about 200
+<abbr>
+                  <hi>l.</hi>
+               </abbr> of his Debts, which I had never done, had my Prudent Father before-hand diſcerned the leaſt appearance of the <hi>Gaming-humor. Game is a Gulph</hi> that ſwallows All, and is never ſatisfied: Whoring and Drunkenneſs may have their fill; but Gaming never: It may well be reckon'd among the <hi>Horſe-leech Daughters, that cry, Give, give; and ſay not, It is enough.</hi>
+            </p>
+            <pb n="49" facs="tcp:109665:26"/>
+            <p>I know men pretend to be able to <hi>go<g ref="char:EOLhyphen"/>vern themſelves:</hi> But how ſhall that be? Shall it be by <hi>Grace?</hi> I fear there are but few <hi>gracious Gamsters:</hi> Beſides, if any be guided by Grace, it is according to the Rule of <hi>Gods Word:</hi> but that is <hi>againſt them,</hi> if the Scriptures before-mentioned be pertinently applied; No, no, ſuch Scriptures they con<g ref="char:EOLhyphen"/>ſider not, or caſt behind their backs: Now if they throw by their Rule, no wonder if they draw crooked Lines. If men do but enter into <hi>Gaming-ground,</hi> they go out of Gods Camp, and from under his Protecti<g ref="char:EOLhyphen"/>on; they enter into Satans Tents: and 'tis not to be expected, but he ſhould unrea<g ref="char:EOLhyphen"/>ſonably and unmercifully drive them. So that <hi>Grace</hi> will not help them; and they muſt ſtand on their own Legs.</p>
+            <p>How then? Shall it be by <hi>Reaſon?</hi> Alas! the Gamſter is no man of Reaſon, but a meer <hi>Bundle of Paſſions:</hi> and where the Paſ<g ref="char:EOLhyphen"/>ſions are Maſters of the Pit, Reaſon can make no Play;
+<hi>unbridled Paſſions run away with Reaſon.</hi> When theſe immorally mad men, have in the courſe of the Game, their Paſſions ſufficiently heated and excited, then <hi>have at all;</hi> the Mannour of <hi>R.</hi> againſt <hi>B. Caſtle;</hi> or what not? King <hi>James</hi> is ſaid
+<pb n="50" facs="tcp:109665:27"/>to have told one <hi>Greenfield</hi> (for ſo, or like it, did his name ſound) when he obſerved him to Play very high. That if he proceeded at that Rate, he would ſoon Play away All his <hi>Green Fields;</hi> which accordingly he did: And after his Two or three thouſand pound <hi>per annum</hi> was gone, if he could by ſending about his man with Letters to his Kindred, and former Acquaintance, procure by bor<g ref="char:EOLhyphen"/>rowing (as he call'd it) any ſmall ſcraps of Money, away they went preſently after the reſt, at the Gaming-Houſe. Now where was this mans <hi>Reaſon</hi> all the while? Why did not his <hi>Reaſon</hi> rule his exorbitant Hu<g ref="char:EOLhyphen"/>mor? Alas! becauſe it <hi>could not.</hi> Such a man as is fully imbued, and impregnated with the <hi>Gaming-Humor;</hi> as he had <hi>no Rea<g ref="char:EOLhyphen"/>ſon to begin</hi> or
+<hi>continue</hi> the Trade, ſo no rea<g ref="char:EOLhyphen"/>ſon will perſuade him to <hi>give it over:</hi> And therefore I ſhall now ſay no more unto him.</p>
+            <p>But to thoſe that are not yet <hi>quite ſpoiled,</hi> I ſhall offer two or three words of advice. You ſee the Oddneſs and Extravagancy of the <hi>Gaming-Humour;</hi> have you a mind to leave it? Then firſt <hi>beg the Grace of God</hi> to enable you to <hi>ſubdue the vehemence</hi> of your <hi>paſ<g ref="char:EOLhyphen"/>ſions;</hi> to compoſe and ſettle your mind from <hi>vanity;</hi> to <hi>ſhun</hi> (as a peſt) all <hi>evil company,</hi> and to give you a wiſe Conſideration of your
+<pb n="51" facs="tcp:109665:27"/>
+               <hi>Time</hi> and <hi>Talents,</hi> for which you muſt ren<g ref="char:EOLhyphen"/>der <hi>an account.</hi> This done, <hi>let Reaſon work,</hi> and you may perhaps need to <hi>exerciſe pru<g ref="char:EOLhyphen"/>dence</hi> in leaving it off by
+<hi>degrees;</hi> becauſe all haſty attempts to break a Cuſtom, do uſually prove ineffectual; nothing is more ordinary among the rank Gamſters, than when they have greatly loſt, to Swear and Vow they will never touch a Card or Die more, and perhaps bind themſelves under a Curſe if they do it; and yet the very next day for<g ref="char:EOLhyphen"/>get all this, and fall to the trade again, as if they had never reſolved on the contra<g ref="char:EOLhyphen"/>ry. If therefore your habit be <hi>too ſtrong</hi> for a preſent diſcharge (I ſpeak as to <hi>Men,</hi> and in a <hi>Moral way,</hi> for in <hi>Divinity</hi> this
+<hi>gra<g ref="char:EOLhyphen"/>dual proceeding</hi> will ſcarce hold good, for that true
+<hi>Repentance</hi> imports a <hi>preſent</hi> and <hi>to<g ref="char:EOLhyphen"/>tal</hi> breaking off an evil Courſe. But in a <hi>Moral way,</hi> I ſay,) you may for ſome
+<hi>ſtated Time</hi> play for ſomething to be <hi>ſpent in com<g ref="char:EOLhyphen"/>mone,</hi> or to make a common-ſtock, that may be for the uſe of both: hereby <hi>half the Stake</hi> is gone. Then after that you may Play for <hi>what ſhall be given to the Poor:</hi> So, tho ſomething be loſt to <hi>quicken the Play</hi> (if there <hi>be need</hi>) yet nothing will be won to <hi>nouriſh the Game.</hi> And at laſt I hope you will come to Play for <hi>nothing,</hi> but only <hi>Re<g ref="char:EOLhyphen"/>creation,</hi> to fit you for better and more ſeri<g ref="char:EOLhyphen"/>ous Employment.</p>
+            <pb n="52" facs="tcp:109665:28"/>
+            <p>So will the uſe and comfort of Play re<g ref="char:EOLhyphen"/>main when the Sport is ended: So no E<g ref="char:EOLhyphen"/>ſtates will be endangered or waſted, nor too much Time ſpent: no Credit crack'd: no Repute loſt, nor Conſcience Sear'd, or Wounded; But <hi>Play</hi> will attain its natural and <hi>proper ende;</hi> namely, To <hi>prepare for fur<g ref="char:EOLhyphen"/>ther Work,</hi> and <hi>Buſineſs.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109665:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
